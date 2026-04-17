@@ -12,6 +12,7 @@ phpVersions=(
     8.2
     8.3
     8.4
+    8.5
 )
 
 for phpVersion in ${phpVersions[@]}; do
